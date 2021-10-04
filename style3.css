@@ -33,9 +33,7 @@
     width: 500%;
     height: 25vh;
     position: absolute;
-    display: block;
     bottom: 0px;
-    left: 0;
     animation-name: road;
     animation-duration: 10s;
     animation-iteration-count: infinite;
@@ -49,7 +47,6 @@
 .city{
     background-image: url(./images/city.png);
     position: absolute;
-    display: block;
     width: 500%;
     height: 230px;
     bottom: 144px;
