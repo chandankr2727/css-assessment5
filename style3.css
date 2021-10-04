@@ -5,7 +5,7 @@
     border-left: 10px solid rgb(235, 87, 19);
     border-right:10px solid rgb(10, 109, 55);
     border-top: 5px solid white;
-    margin-left: -10px;
+    margin-left: -14px;
     margin-top: -5px;
     overflow-x: hidden;
 }
@@ -41,7 +41,7 @@
 }
 @keyframes road {
     100%{
-        transform: translateX(-3600px);
+        transform: translateX(-2600px);
     }
 }
 .city{
